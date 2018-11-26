@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "75793EFA09A162BA4F1A17844A987CDF3B180B54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19" : 0,
+    "EC433DA33D9DD3B2D237C35005DC1E035C23B88C" : 0,
+    "75793EFA09A162BA4F1A17844A987CDF3B180B54" : 0,
+    "17F782690A81D001A6DE548E24007364647BAAA3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "08C37FA7-80DD-4B70-A22D-26F8B61A4345",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19" : "Connect-SDK-iOS\/core\/",
+    "EC433DA33D9DD3B2D237C35005DC1E035C23B88C" : "Connect-SDK-iOS\/modules\/firetv\/",
+    "75793EFA09A162BA4F1A17844A987CDF3B180B54" : "Connect-SDK-iOS\/",
+    "17F782690A81D001A6DE548E24007364647BAAA3" : "Connect-SDK-iOS\/modules\/google-cast\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ConnectSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ConnectSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-Core.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-Google-Cast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17F782690A81D001A6DE548E24007364647BAAA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75793EFA09A162BA4F1A17844A987CDF3B180B54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-FireTV.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC433DA33D9DD3B2D237C35005DC1E035C23B88C"
+    }
+  ]
+}
